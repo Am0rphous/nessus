@@ -55,4 +55,4 @@ New password: Password123!
 New password (again): Password123!
 Password changed for admin
 ```
-
+- Now open your browser to https://localhost:8834
