@@ -47,7 +47,8 @@ docker exec -it nessus /bin/bash /nessus/update.sh
 Username: `admin`
 
 Reset password by running `docker exec -it nessus /opt/nessus/sbin/nessuscli chpasswd`.
-Output:
+
+Example output:
 ```
 Login to change: admin 
 New password: Password123!
