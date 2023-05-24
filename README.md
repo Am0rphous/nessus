@@ -2,19 +2,17 @@
 
 # Cracked Nessus in Docker
 
+</div>
+
 <br>
 
 Work and creds goes to [elliot-bia](https://github.com/elliot-bia/). <a href="https://twitter.com/Elliot58616851" target="_blank"><img src="https://img.shields.io/twitter/follow/Elliot58616851?style=social"> </a>
-
-<div>
-    <img alt="stars" src="https://img.shields.io/github/stars/am0rphous/nessus?style=social">
-</div>
 
 <br>
 
 Do not use it for illegal purposes. If any infringement, please create a new issue with the title "Infringement".
 
-</div>
+
 
 ## Setup
 ````
