@@ -6,12 +6,9 @@
 
 <br>
 
-Work and creds goes to [elliot-bia](https://github.com/elliot-bia/). <a href="https://twitter.com/Elliot58616851" target="_blank"><img src="https://img.shields.io/twitter/follow/Elliot58616851?style=social"> </a>
-
-<br>
+Work and creds goes to [elliot-bia](https://github.com/elliot-bia/). Twitter: [Elliot58616851](https://twitter.com/Elliot58616851)
 
 Do not use it for illegal purposes. If any infringement, please create a new issue with the title "Infringement".
-
 
 
 ## Setup
