@@ -13,6 +13,8 @@ Do not use it for illegal purposes. If any infringement, please create a new iss
 
 ## Setup
 ````
+sudo apt install docker.io
+sudo usermod -aG docker $USER   #Log out and back in after this
 docker pull ramisec/nessus
 docker run -d --name=nessus -p 8834:8834 ramisec/nessus
 docker exec -it nessus /bin/bash /nessus/update.sh
